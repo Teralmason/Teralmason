@@ -17,20 +17,16 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=mehmeteminkartal5433@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@teraldev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=mehmeteminkartal5433@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=@krtll_fmu&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   <a href="https://www.instagram.com/leoeminn_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=leoeminn_&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@teraldev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=teraldev&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
   </a>
   <a href="https://teral-dev.itch.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
+    <img src="https://img.shields.io/static/v1?message=itch.io-teral_dev&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="itch logo"  />
   </a>
 </div>
 
